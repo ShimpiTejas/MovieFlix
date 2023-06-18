@@ -1,5 +1,8 @@
 # Deployed on vercel Link : 
+https://movie-flix-phi.vercel.app/
 
+(Link is not working due to vercel being https and API being HTTP)
+( trying to set up proxy vercel function request to set it up )
 Searchable Movie App
 
 
