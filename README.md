@@ -1,3 +1,16 @@
+# Deployed on vercel Link : 
+
+Searchable Movie App
+
+
+
+
+
+
+
+
+# Tips to Setup 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
